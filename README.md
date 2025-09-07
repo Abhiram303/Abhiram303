@@ -57,7 +57,7 @@ I love building **scalable, secure, and automated solutions** in cloud environme
 
 ---
 
-## 🐍 GitHub Contribution Snake  
+## 🐍 GitHub Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/Abhiram303/Abhiram303/output/github-contribution-grid-snake.svg)
 
 ---
