@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abhiram 👋  
 
-I'm a **DevOps Engineer** with 5+ years of experience specializing in **AWS Cloud, CI/CD automation, containerization, and Infrastructure as Code**.  
+I'm a **DevOps Engineer** having rich experience and specialized in **AWS Cloud, CI/CD automation, containerization, and Infrastructure as Code**.  
 I love building **scalable, secure, and automated solutions** in cloud environments.  
 
 ---
@@ -10,11 +10,11 @@ I love building **scalable, secure, and automated solutions** in cloud environme
 ## 🚀 About Me  
 - 🌐 Cloud Expertise: AWS (EC2, S3, IAM, VPC, CloudWatch)  
 - ⚙️ Automation & CI/CD: Jenkins, GitHub Actions, CodePipeline  
-- 🐳 Containerization: Docker, ECS, Kubernetes (kubeadm)  
+- 🐳 Containerization & : Docker, ECS, Kubernetes (kubeadm,KOPS,EKS)  
 - 📜 IaC: Terraform, CloudFormation  
-- 💻 Scripting: Shell, Python, Groovy  
+- 💻 Scripting: JSON, HCL, Shell, Groovy  
 - 📈 Monitoring: Grafana, CloudWatch  
-- 📂 Version Control: Git, GitHub  
+- 📂 Version Control: Git, GitHub, Bitbucket  
 
 ---
 
