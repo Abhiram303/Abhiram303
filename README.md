@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-# Hi there, I'm Abhiram 👋  
+# Hi there, I'm Abhiram Alamanda👋  
 
 I'm a **DevOps Engineer** with rich experience in **AWS Cloud, CI/CD automation, containerization, and Infrastructure as Code**.  
 I love building **scalable, secure, and automated solutions** in cloud environments. 🚀  
@@ -57,7 +57,7 @@ I love building **scalable, secure, and automated solutions** in cloud environme
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Streaks
 ![snake gif](https://raw.githubusercontent.com/Abhiram303/Abhiram303/output/github-contribution-grid-snake.svg)
 
 ---
