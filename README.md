@@ -6,7 +6,6 @@ I'm a **DevOps Engineer** with rich experience in **AWS Cloud, CI/CD automation,
 I love building **scalable, secure, and automated solutions** in cloud environments. 🚀  
 
 ---
-
 ## 🧑‍💻 About Me  
 - 🖥️ **Operating Systems:** Linux, Windows  
 - ☁️ **Cloud Platforms:** AWS  
