@@ -8,7 +8,7 @@ I love building **scalable, secure, and automated solutions** in cloud environme
 ---
 ## 🧑‍💻 About Me  
 - 🖥️ **Operating Systems:** Linux, Windows  
-- ☁️ **Cloud Platforms:** AWS  
+- ☁️ **Cloud Platforms:** AWS, Microsoft AZURE
 - 🏗️ **IaC:** Terraform, AWS CloudFormation  
 - 🛠️ **Configuration Management:** Ansible  
 - 🐳 **Containerization:** Docker  
