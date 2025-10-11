@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abhiram Alamanda👋  
 
-I'm a **DevOps Engineer** with rich experience in **AWS Cloud, CI/CD automation, containerization, and Infrastructure as Code**.  
+I'm a **CLoud-DevOps Engineer** with rich experience in **AWS & Microsoft Azure Cloud, CI/CD automation, containerization, and Infrastructure as Code**.  
 I love building **scalable, secure, and automated solutions** in cloud environments. 🚀  
 
 ---
@@ -15,10 +15,10 @@ I love building **scalable, secure, and automated solutions** in cloud environme
 - 🎯 **Orchestration:** ECS, Kubernetes (kubeadm, KOPS, EKS), Helm Charts  
 - 📦 **Build Tool:** Maven  
 - 📈 **Monitoring & Logging:** CloudWatch, NewRelic, Grafana  
-- ⚡ **CI/CD:** Jenkins, GitHub Actions, CodePipeline  
+- ⚡ **CI/CD:** Jenkins, GitHub Actions  
 - 🔄 **SCM:** GitHub, Bitbucket, Git  
 - 💬 **Collaboration Tool:** Slack  
-- 📝 **Scripting:** JSON, HCL, Groovy, Shell Script  
+- 📝 **Scripting:** JSON, HCL, Groovy, Shell Script, Playbooks  
 - 🧰 **Utilities:** PuTTY, Visual Studio Code  
 
 ---
