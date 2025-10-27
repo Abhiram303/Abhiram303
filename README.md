@@ -19,7 +19,7 @@ I love building **scalable, secure, and automated solutions** in cloud environme
 - 🔄 **SCM:** GitHub, Bitbucket, Git  
 - 💬 **Collaboration Tool:** Slack  
 - 📝 **Scripting:** JSON, HCL, Groovy, Shell Script, Playbooks  
-- 🧰 **Utilities:** PuTTY, Visual Studio Code  
+- 🧰 **Utilities:** PuTTY, Visual Studio Code
 
 ---
 
