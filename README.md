@@ -2,13 +2,13 @@
 
 # Hi there, I'm Abhiram Alamanda👋  
 
-I'm a **CLoud-DevOps Engineer** with rich experience in **AWS, GCP & Microsoft Azure Cloud, CI/CD automation, containerization, and Infrastructure as Code**.  
+I'm a **CLoud-DevOps Engineer** with rich experience in **AWS & Microsoft Azure Cloud, CI/CD automation, containerization, and Infrastructure as Code**.  
 I love building **scalable, secure, and automated solutions** in cloud environments. 🚀  
 
 ---
 ## 🧑‍💻 About Me  
 - 🖥️ **Operating Systems:** Linux, Windows  
-- ☁️ **Cloud Platforms:** AWS, GCP, Microsoft AZURE
+- ☁️ **Cloud Platforms:** AWS, Microsoft AZURE
 - 🏗️ **IaC:** Terraform, AWS CloudFormation  
 - 🛠️ **Configuration Management:** Ansible  
 - 🐳 **Containerization:** Docker  
