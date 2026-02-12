@@ -12,7 +12,7 @@ I love building **scalable, secure, and automated solutions** in cloud environme
 - 🏗️ **IaC:** Terraform, AWS CloudFormation  
 - 🛠️ **Configuration Management:** Ansible  
 - 🐳 **Containerization:** Docker  
-- 🎯 **Orchestration:** ECS, Kubernetes (kubeadm, KOPS, EKS), Helm Charts  
+- 🎯 **Orchestration:** ECS, Kubernetes (kubeadm, KOPS, EKS, AKS), Helm Charts  
 - 📦 **Build Tool:** Maven  
 - 📈 **Monitoring & Logging:** CloudWatch, NewRelic, Grafana  
 - ⚡ **CI/CD:** Jenkins, GitHub Actions  
