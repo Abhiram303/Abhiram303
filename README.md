@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-# Hi there, I'm Abhiram Alamanda👋  
+# Hi there, I'm Abhiram 👋  
 
 I'm a **CLoud-DevOps Engineer** with rich experience in **AWS & Microsoft Azure Cloud, CI/CD automation, containerization, and Infrastructure as Code**.  
 I love building **scalable, secure, and automated solutions** in cloud environments. 🚀  
